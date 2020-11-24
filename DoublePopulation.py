@@ -8,4 +8,5 @@ def dobpop():
           time=time+1
     print("Population:",pop.round())
     print("Time:",time,"min.")
+    print(10*"*","END",10*"*")
 dobpop()
